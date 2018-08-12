@@ -23,6 +23,6 @@ public class AppTest
 		  driver.manage().window().maximize();
 		  driver.manage().wait(60);
 		  driver.get("http://www.facebook.com");
-		  driver.close();
+		  
 	  }
 }
